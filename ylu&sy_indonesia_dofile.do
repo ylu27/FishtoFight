@@ -202,4 +202,4 @@ ivpoisson cfunction conflict100nmi prodummy* (catch000 = ocean_prd), vce(robust)
 clear all
 
 
-//End of replication
+**********End of Replication**********
