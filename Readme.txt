@@ -6,7 +6,7 @@ Original data source:
 "https://metadata.imas.utas.edu.au/geonetwork/srv/api/records/5c4590d3-a45a-4d37-bf8b-ecd145cb356d?language=eng"
 2. Conflict: ACLED conflict database 
 "https://acleddata.com/data-export-tool/"
-3. Ocean Productivity Index: Ocean Productivity 
+3. Ocean productivity index: Ocean Productivity 
 "http://sites.science.oregonstate.edu/ocean.productivity/"
 
 
